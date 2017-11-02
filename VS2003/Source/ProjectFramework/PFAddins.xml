@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<PFAddins>
+	<LoadAddinsOnStartup>1</LoadAddinsOnStartup>
+	<Addin>
+		<DllName>Addin1.dll</DllName>
+		<AddinInterfaceName>PFAddin1.IAddin1</AddinInterfaceName>
+		<LoadAddin>1</LoadAddin>
+	</Addin>
+	<Addin>
+		<DllName>Addin2.dll</DllName>
+		<AddinInterfaceName>PFAddin2.IAddin2</AddinInterfaceName>
+		<LoadAddin>1</LoadAddin>
+	</Addin>
+	
+</PFAddins>

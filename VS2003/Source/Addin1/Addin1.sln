@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Addin1", "Addin1.csproj", "{3F1B60EF-730D-41B4-955A-6A1BEBF45DC6}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{3F1B60EF-730D-41B4-955A-6A1BEBF45DC6}.Debug.ActiveCfg = Debug|.NET
+		{3F1B60EF-730D-41B4-955A-6A1BEBF45DC6}.Debug.Build.0 = Debug|.NET
+		{3F1B60EF-730D-41B4-955A-6A1BEBF45DC6}.Release.ActiveCfg = Release|.NET
+		{3F1B60EF-730D-41B4-955A-6A1BEBF45DC6}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<ProjectFrameworkAddin>
+		<AppVer>2</AppVer>
+		<AddinName>Bar Code Settings </AddinName>
+		<ToobarButtonCount>1 </ToobarButtonCount>	
+		<MainMenu>
+			<Name>Bar Code</Name>
+			<ShortcutKeyIndex>2</ShortcutKeyIndex>
+				<SubMenu>
+					<Name>Bar Code Tasks</Name>
+					<ShortcutKeyIndex>2</ShortcutKeyIndex>
+					<LeafMenu>
+						<Name>Set Message To App</Name>
+						<FunctionName> Function2 </FunctionName>
+						<HelpString> Check Functioning</HelpString>
+						<ToolTip>Check Functioning </ToolTip>
+						<ToolBarIndex>Addin2Settings.ico</ToolBarIndex>
+						<ShortCutKey>Ctrl+H</ShortCutKey>	
+					</LeafMenu>
+					
+				</SubMenu>
+
+		</MainMenu>
+		
+		<MainMenu>
+			<Name>Settings</Name>
+				<SubMenu>
+					<Name>Bar Code Settings </Name>
+						<LeafMenu>
+							<Name>Set Bar Code Info</Name>
+							<FunctionName> Function1 </FunctionName>
+							<HelpString>Manage all Sales</HelpString>
+							
+						</LeafMenu>
+				</SubMenu>
+
+		</MainMenu>
+	
+</ProjectFrameworkAddin>
